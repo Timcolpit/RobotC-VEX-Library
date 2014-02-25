@@ -26,7 +26,7 @@
 //look a little like this ---------------------------------------------------------
 //next we will learn about Task Main.
 
-{task main()
+task main()
 	{
 while(1==1){
 
