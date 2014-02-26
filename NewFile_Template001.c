@@ -26,6 +26,15 @@
 //look a little like this ---------------------------------------------------------
 //next we will learn about Task Main.
 
+<<<<<<< HEAD
+=======
+task main()
+	{
+while(1==1){
+
+motor[frontRi
+
+>>>>>>> 1b640a7800088b70775587cb070ce989c03a20b1
 
 task main ()
 {
