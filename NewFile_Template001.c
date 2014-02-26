@@ -27,10 +27,8 @@
 //next we will learn about Task Main.
 
 
-task main ()
+task main ()//this "task main" is the code for telling the cortex what to do when (x) button is pressed.
 {
-	while(1==1)
+	while(1==1)//this says while 1==1 which means that the program
 	{
-		motor[frontRightMotor] = vexRT[Ch2];
-	}
-}
+motor
