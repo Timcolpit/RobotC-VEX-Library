@@ -512,7 +512,7 @@ task autonomous()
 		wait1Msec(2000);
 		}
 	
-		//Red side hanging bar side of bump auto (auto 3)
+		//Red side hanging bar side of bump auto (auto 4)
 		else if(programChoice ==4) {
 	
 		// Move forward
