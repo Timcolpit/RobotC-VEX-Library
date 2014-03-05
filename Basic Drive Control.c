@@ -31,5 +31,10 @@ task main ()
 	while(1==1)
 	{
 		motor[frontRightMotor] = vexRT[Ch2];
+		motor[backRightMotor] = vexRT[Ch2];
+		
+		motor[frontLeftMotor] = vexRT[Ch3];
+		motor[backLeftMotor] = vexRT[Ch3];
+		
 	}
 }
