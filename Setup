@@ -1,3 +1,19 @@
+/*This library covers RobotC for VEX Robotics 
+  We use RobotC version 3.62 The current download is version 4.06*/
+
+/*     Download         */
+
+1)open up your web browser
+2)go to www.robotc.net
+3)Click "Free Trial Download"
+4)click on "RobotC for VEX Robotics"
+5) Click the link to download the free 30 day trial
+The will download a file called "RobotCforVexRobotics_406.exe
+6) open up this application and follow the installation instructions
+
+
+
+
 /*     Motors in RobotC */
 
 To set up your motors first go to robot in the top lefthand corner between view and window
