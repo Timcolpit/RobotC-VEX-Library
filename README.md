@@ -5,8 +5,8 @@ Welcome to the 2158 ausTIN Cans Vex Library.
 This resource has been designed for new and older members of Vex who would like to have
 a better knowledge about programming.
 In this Library you will see a whole assortment of basic to advanced programs, that come
-with a helpful step by step description that teach you how to program. 
-This tool can either we used to learn to program or expand on your prior knowledge.
+with a helpful description that teach you how to program. 
+This tool can either be used to learn to program or expand on your prior knowledge.
 
 
    Download
@@ -43,12 +43,15 @@ will need to select what motor it is that you are using. For this example progra
 
 
     Pre-Autonomous Functions
-    
+
+
     
     Autonomous Task
     
     
     
     User Control Task
+    
+    Sensors
      
      
