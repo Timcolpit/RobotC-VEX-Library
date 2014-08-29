@@ -1,4 +1,4 @@
-/*
+	/*
 To set up your motors first go to robot in the top lefthand corner between view and window
 and click on it. From there you need to go to the second option from the bottom where it
 says motors and sensors set up. click on it.After you click on it there will be four options
