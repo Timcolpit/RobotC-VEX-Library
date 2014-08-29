@@ -55,7 +55,48 @@ void pre_auton()
 
 task autonomous()
 {
+	//Drive motors full power
   motor[frontRight]=127;
+  motor[backRight]=127;
+  motor[frontLeft]=127;
+  motor[backLeft]=127;
+  wait1Msec(500);
+
+  //Turn Right
+  motor[frontRight]=-127;
+  motor[backRight]=-127;
+  motor[frontLeft]=127;
+  motor[backLeft]=127;
+  wait1Msec(500);
+
+  //Wait
+  motor[frontRight]=0;
+  motor[backRight]=0;
+  motor[frontLeft]=0;
+  motor[backLeft]=0;
+  wait1Msec(500);
+/*
+  //Drive motors full power
+  motor[frontRight]=127;
+  motor[backRight]=127;
+  motor[frontLeft]=127;
+  motor[backLeft]=127;
+  wait1Msec(500);
+
+  //Turn Right
+  motor[frontRight]=-127;
+  motor[backRight]=-127;
+  motor[frontLeft]=127;
+  motor[backLeft]=127;
+  wait1Msec(500);
+
+  //Wait
+  motor[frontRight]=0;
+  motor[backRight]=0;
+  motor[frontLeft]=0;
+  motor[backLeft]=0;
+  wait1Msec(500);
+*/
 }
 
 /////////////////////////////////////////////////////////////////////////////////////////
