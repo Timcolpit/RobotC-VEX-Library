@@ -43,15 +43,25 @@ will need to select what motor it is that you are using. For this example progra
 
 
     Pre-Autonomous Functions
-
+Pre-Autonomous functions are inserted into the code to initiate different procedures such as 
+preparing the control functions for the motors, pneumatics, and sensors.
 
     
     Autonomous Task
-    
+
+This is the portion of your code that tells the cortex what motors to initiate during the 
+autonomous period of the game.
+
     
     
     User Control Task
+The user control task is the code that tells what motors or processes to activate or deactivate
+when a certain button or limit on a sensor is recognized as 1/0.
+
+    
+    
     
     Sensors
-     
+sensors are used to sense acceleration, direction, and how level the robot is. 
+these are very helpful in the autonomous portion of the game. 
      
