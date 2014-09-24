@@ -25,7 +25,7 @@ This tool can either be used to learn to program or expand on your prior knowled
    Motors in RobotC
 
 To set up your motors first go to robot in the top left hand corner between view and window
-And click on it. From there you need to go to the second option from the bottom where it
+And click on it. From there you need to go to the second option fr bom the bottom where it
 Says motors and sensors set up. Click on it. After you click on it there will be four options
 To choose from 
 1)Standard Models- you generally do not have to mess with this, 
