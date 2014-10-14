@@ -43,12 +43,9 @@ will need to select what motor it is that you are using. For this example progra
 
 
     Pre-Autonomous Functions
-<<<<<<< HEAD
+
     
 The Pre-Autonomous section is used to 'Set up' your robot before competition. It's generally used to set up potentiometer positions, LCD display etc. This is all functions that your robot will do before the match 
-=======
-
->>>>>>> origin/Tim
 
     
     Autonomous Task
@@ -57,9 +54,9 @@ The Pre-Autonomous section is used to 'Set up' your robot before competition. It
     
     User Control Task
     
-<<<<<<< HEAD
-=======
+
+
     Sensors
      
->>>>>>> origin/Tim
+
      
