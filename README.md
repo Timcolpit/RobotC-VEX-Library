@@ -43,8 +43,14 @@ will need to select what motor it is that you are using. For this example progra
 
 
     Pre-Autonomous Functions
+<<<<<<< HEAD
 Pre-Autonomous functions are inserted into the code to initiate different procedures such as 
 preparing the control functions for the motors, pneumatics, and sensors.
+=======
+
+    
+The Pre-Autonomous section is used to 'Set up' your robot before competition. It's generally used to set up potentiometer positions, LCD display etc. This is all functions that your robot will do before the match 
+>>>>>>> origin/master
 
     
     Autonomous Task
@@ -61,7 +67,15 @@ when a certain button or limit on a sensor is recognized as 1/0.
     
     
     
+
+
     Sensors
+<<<<<<< HEAD
 sensors are used to sense acceleration, direction, and how level the robot is. 
 these are very helpful in the autonomous portion of the game. 
      
+=======
+     
+
+     
+>>>>>>> origin/master
