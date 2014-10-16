@@ -4,20 +4,15 @@ RobotC-VEX-Libary
 Welcome to the 2158 ausTIN Cans Vex Library. 
 This resource has been designed for new and older members of Vex who would like to have
 a better knowledge about programming.
-In this Library you will see a whole assortment of basic to advanced programs, that come
-with a helpful description that teach you how to program. 
-This tool can either be used to learn to program or expand on your prior knowledge.
 
 
    Download
 
 	1)open up your web browser
-	2)go to www.robotc.net
-	3)Click "Free Trial Download"
-	4)click on "RobotC for VEX Robotics"
-	5) Click the link to download the free 10 day trial
+	2)go to http://robotc.net/download/vexrobotics/
+	3) Click the link to download the free 10 day trial
     The will download a file called "RobotCforVexRobotics_406.exe
-	6) open up this application and follow the installation instructions
+	4) open up this application and follow the installation instructions
 
 
 
@@ -43,26 +38,22 @@ will need to select what motor it is that you are using. For this example progra
 
 
     Pre-Autonomous Functions
-<<<<<<< HEAD
 Pre-Autonomous functions are inserted into the code to initiate different procedures such as 
 preparing the control functions for the motors, pneumatics, and sensors.
-=======
 
     
 The Pre-Autonomous section is used to 'Set up' your robot before competition. It's generally used to set up potentiometer positions, LCD display etc. This is all functions that your robot will do before the match 
->>>>>>> origin/master
 
     
     Autonomous Task
-<<<<<<< HEAD
+
 
 This is the portion of your code that tells the cortex what motors to initiate during the 
 autonomous period of the game.
 
-=======
 For the Autonomous tasks you program the robot to be able to move on it's own. In this section you will define what motors you would like to run, and for how long you would like them to run for. For example if you wanted to run all your drive base motors for 1 second you would tell all your motors to run at full power (127) using the snippet ‘wait1Msec(1000); ‘ **Make sure that all of your snippets end with a semi colon (;) to signal the end of that command.**
     
->>>>>>> origin/master
+
     
     
     User Control Task
@@ -75,12 +66,11 @@ when a certain button or limit on a sensor is recognized as 1/0.
 
 
     Sensors
-<<<<<<< HEAD
+
 sensors are used to sense acceleration, direction, and how level the robot is. 
 these are very helpful in the autonomous portion of the game. 
-     
-=======
+
      
 
      
->>>>>>> origin/master
+
