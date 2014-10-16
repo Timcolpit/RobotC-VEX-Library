@@ -54,10 +54,15 @@ The Pre-Autonomous section is used to 'Set up' your robot before competition. It
 
     
     Autonomous Task
+<<<<<<< HEAD
 
 This is the portion of your code that tells the cortex what motors to initiate during the 
 autonomous period of the game.
 
+=======
+For the Autonomous tasks you program the robot to be able to move on it's own. In this section you will define what motors you would like to run, and for how long you would like them to run for. For example if you wanted to run all your drive base motors for 1 second you would tell all your motors to run at full power (127) using the snippet ‘wait1Msec(1000); ‘ **Make sure that all of your snippets end with a semi colon (;) to signal the end of that command.**
+    
+>>>>>>> origin/master
     
     
     User Control Task
