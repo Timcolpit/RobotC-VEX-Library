@@ -64,15 +64,17 @@ task usercontrol()
 {
 	// User control code here, inside the loop
 
-	while (true)
-	{
-	  // This is the main execution loop for the user control program. Each time through the loop
-	  // your program should update motor + servo values based on feedback from the joysticks.
+	while(1 == 1) {
 
-	  // .....................................................................................
-	  // Insert user code here. This is where you use the joystick values to update your motors, etc.
-	  // .....................................................................................
+/* Drivetrain */
 
-	  UserControlCodePlaceholderForTesting(); // Remove this function call once you have "real" code.
-	}
+//Right side of the robot is controlled by the right joystick, Y-axis
+motor[frontRightMotor]	= vexRT[Ch2];
+motor[backRightMotor] 	= vexRT[Ch2];
+
+//Left side of the robot is controlled by the left joystick, Y-axis
+motor[frontLeftMotor]   = vexRT[Ch3];
+motor[backLeftMotor]    = vexRT[Ch3];
+
+    }
 }
