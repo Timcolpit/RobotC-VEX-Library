@@ -11,7 +11,7 @@ a better knowledge about programming.
 	1)open up your web browser
 	2)go to http://robotc.net/download/vexrobotics/
 	3) Click the link to download the free 10 day trial
-    The will download a file called "RobotCforVexRobotics_406.exe
+    The will download a file called "RobotCforVexRobotics_406.exe"
 	4) open up this application and follow the installation instructions
 
 
