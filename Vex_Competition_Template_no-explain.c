@@ -62,30 +62,18 @@ task autonomous()
 
 task usercontrol()
 {
-	// User control code here, inside the loop
 
-<<<<<<< HEAD
-	while (true)
-	{
-	 motor[frontRight] =vexRT[Ch2];
-	 motor[backRight] =vexRT[Ch2];
-
-	 motor[frontLeft] =vexRT[Ch3];
-	 motor[backLeft] =vexRT[Ch3];
-	}
-=======
 	while(1 == 1) {
 
 /* Drivetrain */
 
 //Right side of the robot is controlled by the right joystick, Y-axis
-motor[frontRightMotor]	= vexRT[Ch2];
-motor[backRightMotor] 	= vexRT[Ch2];
+motor[frontRight]	= vexRT[Ch2];
+motor[backRight] 	= vexRT[Ch2];
 
 //Left side of the robot is controlled by the left joystick, Y-axis
-motor[frontLeftMotor]   = vexRT[Ch3];
-motor[backLeftMotor]    = vexRT[Ch3];
+motor[frontLeft]   = vexRT[Ch3];
+motor[backLeft]    = vexRT[Ch3];
 
     }
->>>>>>> origin/master
 }

@@ -120,8 +120,8 @@ motor[frontRightMotor]	= vexRT[Ch2];
 motor[backRightMotor] 	= vexRT[Ch2];
 
 //Left side of the robot is controlled by the left joystick, Y-axis
-motor[frontLeftMotor]   = vexRT[Ch3];
-motor[backLeftMotor]    = vexRT[Ch3];
+motor[frontLeft]   = vexRT[Ch3];
+motor[backLeft]    = vexRT[Ch3];
 
 	}
 }
