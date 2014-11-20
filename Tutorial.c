@@ -116,8 +116,8 @@ task usercontrol()
 /* Drivetrain */
 
 //Right side of the robot is controlled by the right joystick, Y-axis
-motor[frontRightMotor]	= vexRT[Ch2];
-motor[backRightMotor] 	= vexRT[Ch2];
+motor[frontRight]	= vexRT[Ch2];
+motor[backRight] 	= vexRT[Ch2];
 
 //Left side of the robot is controlled by the left joystick, Y-axis
 motor[frontLeft]   = vexRT[Ch3];
